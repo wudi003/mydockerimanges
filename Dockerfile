@@ -1,1 +1,1 @@
-FROM ghcr.io/kubesphere/builder-base:v3.3.1
+FROM ghcr.io/kubesphere/builder-maven:v3.3.1-jdk17
